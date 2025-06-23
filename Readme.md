@@ -19,7 +19,7 @@ A web application for buying and selling cars online.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/car_sale_website.git
+    git clone https://github.com/Najahi-Dev/Auto-Elite_Car_Sale.git
     ```
 2. Navigate to the project directory:
     ```bash
