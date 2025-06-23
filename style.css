@@ -1,3 +1,7 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3');
     background-size: cover;
